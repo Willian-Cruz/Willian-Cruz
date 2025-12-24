@@ -12,10 +12,10 @@
 
 ## Entre em contato comigo:  
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:willian.adolpho95@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:willian.adolpho95@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/williandacruz" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/williandacruz" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
+  <a href="https://whatsa.me/5511966448248/?t=Ol%C3%A1,%20Willian!" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://whatsa.me/5511966448248/?t=Ol%C3%A1,%20Willian!" alt="WhatsApp"/></a>
 </p>
