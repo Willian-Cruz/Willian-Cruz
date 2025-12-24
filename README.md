@@ -1,4 +1,4 @@
-# Sejam bem vindos ao meu perfil!
+# Sejam bem vindos ao meu perfil! (Perfil em manutenção/desenvolvimento :wrench: :hammer: :nut_and_bolt:)
 
 ## Um pouco sobre mim:
 :raising_hand_man: Me chamo Willian tenho 30 anos  
