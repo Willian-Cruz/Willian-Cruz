@@ -4,7 +4,7 @@
 :raising_hand_man: Me chamo Willian tenho 30 anos  
 :man_student::bar_chart: Formado em Banco de Dados  
 :house: Sou de São Paulo-SP  
-:vulcan_salute::nerd_face: Nerd não praticante(se não existia acabai de inventar rs)  
+:vulcan_salute::nerd_face: Nerd não praticante(se não existia acabei de inventar rs)  
 :muscle: Gosto muito de esportes, apesar de não ter praticado muito ultimamente tenho tentado sair do sedentarismo   
 :headphones: Ouço muita música e podcast(tem dias que sou eu e o Spotify contra o mundo, aceito sugestões)  
 :books: Tenho uma mini coleção de HQs e Graphic Novels, sempre que posso estou lendo alguma coisa(aceito recomendações também rs)  
