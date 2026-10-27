@@ -11,7 +11,7 @@
 
 ### 🛠️ Stack
 
-**Domino e uso no dia a dia:**
+**Domínio e uso no dia a dia:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -21,6 +21,9 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Em desenvolvimento:**
 
@@ -28,7 +31,6 @@
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ---
@@ -36,7 +38,11 @@
 ### 🚀 Projetos em destaque
 
 **[hub_vagas](https://github.com/Willian-Cruz/hub_vagas)**
-Pipeline ETL completo de coleta e análise de vagas de dados no mercado brasileiro. Python + PostgreSQL, dashboard com dados reais, suíte de testes automatizados.
+Pipeline ETL em Python que coleta vagas de dados em 3 portais (Playwright + BeautifulSoup), normaliza senioridade, localização e salário, extrai tecnologias e grava em PostgreSQL. Exportação para Excel e dashboard no Power BI, 133 testes automatizados e CI com GitHub Actions.
+
+### 🔧 Em construção
+
+<sub>Repositórios ainda não públicos — os links entram aqui assim que forem publicados.</sub>
 
 **vagas-multiplatform**
 Projeto complementar ao hub_vagas, focado em consolidar vagas de múltiplas plataformas de origem.
@@ -54,10 +60,10 @@ Stack parametrizada de data lake (S3 com versionamento e criptografia, IAM com p
 
 ### 💬 Um pouco sobre mim
 
-🙋‍♂️ 30 anos, formado em Banco de Dados pela Faculdade Impacta de Tecnologia
-💪 Voltando aos esportes depois de um tempo sedentário
-🎧 Música e podcast o dia inteiro — aceito sugestões
-📚 Coleciono HQs e Graphic Novels — recomendações são sempre bem-vindas
+- 🙋‍♂️ 30 anos, formado em Banco de Dados pela Faculdade Impacta de Tecnologia
+- 💪 Voltando aos esportes depois de um tempo sedentário
+- 🎧 Música e podcast o dia inteiro — aceito sugestões
+- 📚 Coleciono HQs e Graphic Novels — recomendações são sempre bem-vindas
 
 > Aprendi a gostar de tecnologia desde criança, e programar virou prioridade: tenho base sólida em estrutura de dados, algoritmos, POO, Python e SQL — e estou expandindo isso para engenharia de dados de ponta a ponta.
 
@@ -67,4 +73,3 @@ Stack parametrizada de data lake (S3 com versionamento e criptografia, IAM com p
 
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:willian.adolpho95@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/williandacruz/)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white)](https://whatsa.me/5511966448248/?t=Ol%C3%A1,%20Willian!)
